@@ -24,20 +24,14 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "name_category": "Anime Favorit",
+      "image": "https://i0.wp.com/wallpapersmug.com/download/1280x2120/df8a88/Akira-Kurusu-Anime-Persona-5-4k.jpg"
 
     },
     {
       "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
+      "name_category": "Best Anime",
+      "image": "https://1.bp.blogspot.com/-cA9WPj99L2o/XD9CK3BH2dI/AAAAAAAAArI/SO5szMdkRisrGW4_3LV7GUnV14J-z_J4gCKgBGAs/w1242-h2688-c/anime-girl-art-gas-mask-24-4k.jpg"
 
     }
   ],
@@ -46,39 +40,39 @@
   [
     {
       "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
+      "name_category": "Anime Favorit",
+      "title":"Anime Wallpaper",
       "image":"https://r1.ilikewallpaper.net/iphone-12-pro-pro-max-wallpapers/download-118800/Hyakkimaru-Artwork-Resolution-HD-Anime-4K-Images-P.jpg"
     },
     {
       "id": 2,
-      "name_category": "Nature",
-      "title": "River",
+      "name_category": "Best Anime",
+      "title": "Anime Wallpaper",
       "image": "https://images.hdqwalls.com/download/boruto-anime-4k-qp-1080x1920.jpg"
     },
     {
       "id":3,
-      "name_category": "Nature",
-      "title":"Mountain",
+      "name_category": "Anime Favorit",
+      "title":"Anime Wallpaper",
       "image":"https://img.wallpapersafari.com/phone/1080/1920/5/25/MpZAte.jpg"
     },
     {
       "id":4,
-      "name_category": "Animal",
-      "title":"Cute Cat",
+      "name_category": "Best Anime",
+      "title":"Anime Wallpaper",
       "image":"https://r1.ilikewallpaper.net/iphone-12-pro-pro-max-wallpapers/download-112493/Trafalgar-Law-In-One-Piece-Resolution-HD-Anime-4K-.jpg"
     }
   ,
     {
       "id":5,
-      "name_category": "Animal",
-      "title":"Dog",
+      "name_category": "Anime Favorit",
+      "title":"Anime Wallpaper",
       "image":"https://wpaperhd.com/wp-content/uploads/2018/09/papers.co-bc54-dragonball-goku-blue-art-illustration-anime-41-iphone-wallpaper.jpg"
     },
     {
       "id":6,
-      "name_category": "Car",
-      "title":"Super Car",
+      "name_category": "Best Anime",
+      "title":"Anime Wallpaper",
       "image":"https://wallpaperaccess.com/full/3279848.jpg"
     }
   ]
