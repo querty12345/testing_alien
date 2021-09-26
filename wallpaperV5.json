@@ -1,0 +1,85 @@
+{
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "Nature",
+      "title":"Waterfall",
+      "image":"https://r1.ilikewallpaper.net/iphone-12-pro-pro-max-wallpapers/download-118800/Hyakkimaru-Artwork-Resolution-HD-Anime-4K-Images-P.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Nature",
+      "title": "River",
+      "image": "https://images.hdqwalls.com/download/boruto-anime-4k-qp-1080x1920.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "Nature",
+      "title":"Mountain",
+      "image":"https://img.wallpapersafari.com/phone/1080/1920/5/25/MpZAte.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "Animal",
+      "title":"Cute Cat",
+      "image":"https://r1.ilikewallpaper.net/iphone-12-pro-pro-max-wallpapers/download-112493/Trafalgar-Law-In-One-Piece-Resolution-HD-Anime-4K-.jpg"
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "Animal",
+      "title":"Dog",
+      "image":"https://wpaperhd.com/wp-content/uploads/2018/09/papers.co-bc54-dragonball-goku-blue-art-illustration-anime-41-iphone-wallpaper.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "Car",
+      "title":"Super Car",
+      "image":"https://wallpaperaccess.com/full/3279848.jpg"
+    }
+  ]
+}
